@@ -12,5 +12,4 @@ oferecendo as seguintes funcionalidades de um CRUD básico
 # Técnologias Utilizadas 
 
 - JavaScript
-- Node.js 
 - JSON
